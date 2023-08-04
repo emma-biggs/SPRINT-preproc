@@ -282,10 +282,10 @@ set feat_files(1) "/Users/eebiggs/Desktop/QAQC_Barcelona/sub-1001/ses-baseline/f
 set fmri(confoundevs) 0
 
 # B0 unwarp input image for analysis 1
-set unwarp_files(1) "/Users/eebiggs/Desktop/QAQC_Barcelona/derivatives/Preprocessed/sub-1001/sub-1001_ses-baseline_fieldmap_preprocessed"
+set unwarp_files(1) "/Users/eebiggs/Desktop/QAQC_Barcelona/derivatives/Preprocessed/sub-1001/sub-1001_ses-baseline_fieldmap_desc-preproc"
 
 # B0 unwarp mag input image for analysis 1
-set unwarp_files_mag(1) "/Users/eebiggs/Desktop/QAQC_Barcelona/derivatives/Preprocessed/sub-1001/sub-1001_ses-baseline_magnitude_preprocessed"
+set unwarp_files_mag(1) "/Users/eebiggs/Desktop/QAQC_Barcelona/derivatives/Preprocessed/sub-1001/sub-1001_ses-baseline_magnitude_desc-preproc"
 
 # Subject's structural image for analysis 1
 set highres_files(1) "/Users/eebiggs/Desktop/QAQC_Barcelona/derivatives/Preprocessed/sub-1001/T1.anat/T1_biascorr_brain"
